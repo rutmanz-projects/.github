@@ -4,14 +4,16 @@
 
 ### FIRST Games
 
-- [2022: Toothless](https://github.com/flamingchickens1540/toothless)
-- [2020: Luna](https://github.com/flamingchickens1540/ares-luna-2020)
-- [2019: Phineas](https://github.com/flamingchickens1540/phineas-ferb-2019)
-- [2018: Pandora](https://github.com/flamingchickens1540/pandora-titan-2018)
-- [2017: Hen Solo](https://github.com/flamingchickens1540/hensolo-chewbawka-2017)
-- [2016: Zuko](https://github.com/flamingchickens1540/zuko-azula-2016)
-- [2015: Quasar](https://github.com/flamingchickens1540/quasar-helios-2015)
-- [2014: Gemini](https://github.com/flamingchickens1540/gemini-apollo-2014)
+|Year|Repository|
+|------------------------|---|
+|2022: Rapid React       |[![toothless](https://github-readme-stats.vercel.app/api/pin?username=flamingchickens1540&title_color=ffffff&icon_color=aaaaaa&text_color=eeeeee&bg_color=000000&repo=toothless)](https://github.com/flamingchickens1540/toothless)|
+|2020: Infinite Recharge |[![ares-luna-2020](https://github-readme-stats.vercel.app/api/pin?username=flamingchickens1540&title_color=ffffff&icon_color=aaaaaa&text_color=eeeeee&bg_color=000000&repo=ares-luna-2020)](https://github.com/flamingchickens1540/ares-luna-2020)|
+|2019: Deep Space        |[![phineas-ferb-2019](https://github-readme-stats.vercel.app/api/pin?username=flamingchickens1540&title_color=ffffff&icon_color=aaaaaa&text_color=eeeeee&bg_color=000000&repo=phineas-ferb-2019)](https://github.com/flamingchickens1540/phineas-ferb-2019)|
+|2018: Power Up          |[![pandora-titan-2018](https://github-readme-stats.vercel.app/api/pin?username=flamingchickens1540&title_color=ffffff&icon_color=aaaaaa&text_color=eeeeee&bg_color=000000&repo=pandora-titan-2018)](https://github.com/flamingchickens1540/pandora-titan-2018)
+|2017: Steamworks        |[![hensolo-chewbawka-2017](https://github-readme-stats.vercel.app/api/pin?username=flamingchickens1540&title_color=ffffff&icon_color=aaaaaa&text_color=eeeeee&bg_color=000000&repo=hensolo-chewbawka-2017)](https://github.com/flamingchickens1540/hensolo-chewbawka-2017)
+|2016: Strongold         |[![zuko-azula-2016](https://github-readme-stats.vercel.app/api/pin?username=flamingchickens1540&title_color=ffffff&icon_color=aaaaaa&text_color=eeeeee&bg_color=000000&repo=zuko-azula-2016)](https://github.com/flamingchickens1540/zuko-azula-2016)|
+|2015: Recycle Rush      |[![quasar-helios-2015](https://github-readme-stats.vercel.app/api/pin?username=flamingchickens1540&title_color=ffffff&icon_color=aaaaaa&text_color=eeeeee&bg_color=000000&repo=quasar-helios-2015)](https://github.com/flamingchickens1540/quasar-helios-2015)|
+|2014: Aerial Assist     |[![gemini-apollo-2014](https://github-readme-stats.vercel.app/api/pin?username=flamingchickens1540&title_color=ffffff&icon_color=aaaaaa&text_color=eeeeee&bg_color=000000&repo=gemini-apollo-2014)](https://github.com/flamingchickens1540/gemini-apollo-2014)|
 
 ### Bunnybots
 
