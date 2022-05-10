@@ -18,7 +18,7 @@
 |2017: Steamworks        |[![hensolo-chewbawka-2017][card:frc2017]][repo:frc2017]
 |2016: Strongold         |[![zuko-azula-2016][card:frc2016]][repo:frc2016]
 |2015: Recycle Rush      |[![quasar-helios-2015][card:frc2017]][repo:frc2015]
-|2014: Aerial Assist     |[![gemini-apollo-2014][card:frc2016]][repo:frc2014]
+|2014: Aerial Assist     |[![gemini-apollo-2014][card:frc2014]][repo:frc2014]
 
 </details>
 
